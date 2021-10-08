@@ -1,5 +1,5 @@
 # pertemuan1_intent
 
-Nama : Rizky Adi Ryanto
+Nama : Muhammad Fahrozi
 <br>
 ini merupakan apps praktikum MBKM ITN MALANG
